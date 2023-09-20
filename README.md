@@ -9,7 +9,7 @@ Single-cell analysis related notes and resources.
 
 ## Notebooks
 
-- [Single-cell best practices](./notebooks/) - This book teaches the best practices of single-cell sequencing analysis, from preprocessing to visualization to statistical evaluation and beyond. This book covers unimodal and multimodal single-cell sequencing data, with recommendations based on external benchmarks and reviews [[Link](https://www.sc-best-practices.org/preamble.html)].
+- [Single-cell best practices](./single-cell-best-practics/) - This book teaches the best practices of single-cell sequencing analysis, from preprocessing to visualization to statistical evaluation and beyond. This book covers unimodal and multimodal single-cell sequencing data, with recommendations based on external benchmarks and reviews [[Link](https://www.sc-best-practices.org/)].
   <details>
   <summary>Paper</summary>
   Heumos, L., Schaar, A.C., Lance, C. et al. Best practices for single-cell analysis across modalities. Nat Rev Genet 24, 550–572 (2023). https://doi.org/10.1038/s41576-023-00586-w
@@ -25,8 +25,17 @@ Single-cell analysis related notes and resources.
 ## Resources
 
 - [CellMarker 2.0](http://bio-bigdata.hrbmu.edu.cn/CellMarker/) A database that provides experimentally supported markers of various cell types in different tissues of human and mouse, and web tools for analyzing single cell sequencing data. It has more data and features than the previous version.
-  - All cell markers of different cell types from different tissues in human and mouse [[Link](./resources/Cell_marker_All.xlsx)].
+  
+  All cell markers of different cell types from different tissues in human and mouse [[Link](./resources/Cell_marker_All.xlsx)]
   <details>
   <summary>Paper</summary>
   Congxue Hu, Tengyue Li, Yingqi Xu, Xinxin Zhang, Feng Li, Jing Bai, Jing Chen, Wenqi Jiang, Kaiyue Yang, Qi Ou, Xia Li, Peng Wang, Yunpeng Zhang, CellMarker 2.0: an updated database of manually curated cell markers in human/mouse and web tools based on scRNA-seq data, Nucleic Acids Research, Volume 51, Issue D1, 6 January 2023, Pages D870–D876, https://doi.org/10.1093/nar/gkac947
+  </details>
+
+- [PanglaoDB](https://panglaodb.se/) - PanglaoDB is a database for single cell RNA sequencing experiments from mouse and human. It collects and integrates data from multiple studies and presents them through a unified framework.
+  
+  Cell type gene expression markers [[Link](./resources/PanglaoDB_markers_27_Mar_2020.tsv)]
+  <details>
+  <summary>Paper</summary>
+  Oscar Franzén, Li-Ming Gan, Johan L M Björkegren, PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data, Database, Volume 2019, 2019, baz046, doi:10.1093/database/baz046
   </details>
