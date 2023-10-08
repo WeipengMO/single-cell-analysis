@@ -15,7 +15,7 @@ Single-cell analysis related notes and resources.
   Heumos, L., Schaar, A.C., Lance, C. et al. Best practices for single-cell analysis across modalities. Nat Rev Genet 24, 550–572 (2023). https://doi.org/10.1038/s41576-023-00586-w
   </details>
 
-- [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) This book teaches users how to use Bioconductor tools for single-cell RNA-seq data analysis. It covers various steps of typical workflows using example datasets and key concepts from the paper “Orchestrating Single-Cell Analysis with Bioconductor”. It aims to provide a solid foundation and a starting point for further exploration of scRNA-seq analysis. It is written for both experimental biologists and bioinformaticians.
+- [Orchestrating Single-Cell Analysis with Bioconductor](./osca_bioconductor/) This book teaches users how to use Bioconductor tools for single-cell RNA-seq data analysis. It covers various steps of typical workflows using example datasets and key concepts from the paper “Orchestrating Single-Cell Analysis with Bioconductor”. It aims to provide a solid foundation and a starting point for further exploration of scRNA-seq analysis. It is written for both experimental biologists and bioinformaticians. [[Link](https://bioconductor.org/books/release/OSCA/)]
   <details>
   <summary>Paper</summary>
   Amezquita, R.A., Lun, A.T.L., Becht, E. et al. Orchestrating single-cell analysis with Bioconductor. Nat Methods 17, 137–145 (2020). https://doi.org/10.1038/s41592-019-0654-x
